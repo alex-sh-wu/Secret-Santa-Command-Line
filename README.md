@@ -1,4 +1,4 @@
-# Secret Santa Command Line
+# Secret Santa Command Line Email Sender
 
 This code was coded with Node.js v6.11.4. It is guaranteed to run on a Windows machine after installing the proper npm packages.
 
