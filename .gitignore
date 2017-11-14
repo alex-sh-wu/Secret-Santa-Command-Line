@@ -1,0 +1,12 @@
+# ignore everything
+*
+node_modules/
+
+# keep these files
+!README.md
+!.gitignore
+!.gitattributes
+!package.json
+!*.js
+
+test.js

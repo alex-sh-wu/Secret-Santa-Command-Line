@@ -1,0 +1,8 @@
+{
+  "name": "secret-santa-command-line",
+  "version": "1.0.0",
+  "author": "Alex Sin Hang Wu",
+  "dependencies": {
+    "nodemailer": "4.4.0"
+  }
+}
