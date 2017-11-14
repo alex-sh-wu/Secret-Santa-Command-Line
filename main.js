@@ -51,6 +51,7 @@ rl.on('line', function(line) {
 		if (line.toLowerCase() === yes || line.toLowerCase() === no) {
 			if (line.toLowerCase() === yes) {
 				userState.finalized = true;
+				console.log('Please login with your email credentials (Gmail only) to send out emails to all the participants.');
 				utility.userEmailPrompt(rl);
 			}
 			else { //the user was not happy with the displayed information

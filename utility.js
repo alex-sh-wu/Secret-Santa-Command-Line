@@ -81,7 +81,7 @@ function setConfirmationMessage(rl) {
 }
 
 function userEmailPrompt(rl) {
-	rl.setPrompt('Email (Gmail only): ');
+	rl.setPrompt('Email: ');
 }
 
 function userPasswordPrompt(rl) {
